@@ -1,6 +1,6 @@
 # Pinclonerest
 
-Inskygram is a photo sharing social networking service.
+Pinclonerest is a photo sharing social networking service.
 
 Web application that tries to simulate the behavior of the application [Pinterest](http://pinterest.com). It will be developed for the presentation of the final project of the bootcamp in [Skylab Coders](https://skylabcoders.com/).
 
